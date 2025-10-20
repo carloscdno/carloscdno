@@ -3,7 +3,7 @@ Hi there! 👋
 - 🤖 I'm a QA Engineer currently working with Smart Home Systems
 - 🔎 I make sure that websites, mobile apps, and APIs work just the way they should
 - 😎 I enjoy breaking things (so they can be fixed 😄)
-- ⌨️ I write automated tests with tools like Playwright and Cucumber
+- ⌨️ I write automated tests with tools like Playwright
 - 💬 You can ask me about digging into data to find patterns and improve processes 📊
 - 📚 Always learning, always curious, and always ready to ship quality software 🚀
 - ⚡ Fun fact: I'm a Civil Engineer but I ended up working with software and I love it!
